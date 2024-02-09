@@ -4,4 +4,5 @@
 
 const common = require('./common.js');
 common.hello();
+import css from './style.css';
 
